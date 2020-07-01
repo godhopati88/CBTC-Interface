@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>certs/127_0_0_1.crt</file>
+        <file>certs/127_0_0_1.key</file>
+        <file>certs/127_0_0_2.crt</file>
+        <file>certs/127_0_0_2.key</file>
+        <file>certs/127_0_0_3.crt</file>
+        <file>certs/127_0_0_3.key</file>
+        <file>certs/127_0_0_4.crt</file>
+        <file>certs/127_0_0_4.key</file>
+        <file>certs/192.168.10.6.crt</file>
+        <file>certs/192.168.10.6.key</file>
+        <file>certs/192.168.10.10.crt</file>
+        <file>certs/192.168.10.10.key</file>
+        <file>certs/192.168.10.20.crt</file>
+        <file>certs/192.168.10.20.key</file>
+        <file>certs/192.168.10.30.crt</file>
+        <file>certs/192.168.10.30.key</file>
+        <file>certs/192.168.10.40.crt</file>
+        <file>certs/192.168.10.40.key</file>
+        <file>certs/192.168.10.41.crt</file>
+        <file>certs/192.168.10.41.key</file>
+        <file>certs/ca.crt</file>
+        <file>certs/ca1.crt</file>
+        <file>certs/client.crt</file>
+        <file>certs/client.key</file>
+        <file>certs/server.crt</file>
+        <file>certs/server.key</file>
+    </qresource>
+</RCC>
